@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ids_asc"
+        android:title="NIM Terendah"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/ids_dsc"
+        android:title="NIM Tertinggi"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/ipk_asc"
+        android:title="IPK Terendah"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/ipk_dsc"
+        android:title="IPK Tertinggi"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/name_asc"
+        android:title="NAMA ASC"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/name_dsc"
+        android:title="NAMA DSC"
+        app:showAsAction="never"/>
+</menu>
